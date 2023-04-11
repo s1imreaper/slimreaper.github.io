@@ -1,12 +1,13 @@
-## Welcome to MY WEBSITE
+## slimreaper.io
 
-You can use the [editor on GitHub](https://github.com/Manuel83/sample/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This is really just an archive of any data science projects I have done or am currently working on. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown is a lightweight and easy-to-use syntax for styling your writing. Let me test a link to a notebook. 
+[Olist Brazil EDA and Market Channel Analysis](https://github.com/s1imreaper/datasci/blob/019930029e0016651032afbd8cdbefb7d28005ce/eda-and-rough-sentiment-analysis.ipynb)
 
 ```markdown
 Syntax highlighted code block
